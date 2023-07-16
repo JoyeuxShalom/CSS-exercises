@@ -1,2 +1,2 @@
 # CSS-exercises
-This is an exercises showing three ways to connect CSS and HTML which are external, internal and inline CSS.
+This are exercises showing different ways of using CSS in HTML and their relationship.
